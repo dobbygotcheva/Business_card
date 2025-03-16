@@ -89,9 +89,9 @@ _Include screenshots of the application (e.g., main screen, preview dialog, and 
 
 This project was developed as part of **"Internet and WWW 2024"**, **Lab Assignment 01**.
 
-- **Developer:** Your Name
+- **Developer:** Dobrinka Gotcheva
 - **Faculty Number:** 7MI3400513
-- **Semester:** Summer 2024
+- **Semester:** Summer 2025
 - **Program:** ZIKSM
 
 ---
