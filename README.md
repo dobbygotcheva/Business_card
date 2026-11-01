@@ -91,7 +91,6 @@ This project was developed as part of **"Internet and WWW 2024"**, **Lab Assignm
 
 - **Developer:** Dobrinka Gotcheva
 - **Faculty Number:** 7MI3400513
-- **Semester:** Summer 2025
-- **Program:** ZIKSM
+- **Semester:** Summer 2026
 
 ---
